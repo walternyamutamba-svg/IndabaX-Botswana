@@ -3,7 +3,7 @@
 ## Applied Machine Learning for Real-World Business Problems
 
 **Author:** Walter M Nyamutamba  
-**Event:** IndabaX Zimbabwe  
+**Event:** Deep Learning IndabaX Botswana 
 **Project Type:** Applied Data Science & Machine Learning Tutorial  
 **Notebook:** `IndabaX_Botswana_DataScience_Industry.ipynb`
 
