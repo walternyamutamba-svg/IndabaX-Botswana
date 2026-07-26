@@ -1,4 +1,4 @@
-# Deep Learning IndabaX Botswana — Data Science in Industry
+# Deep Learning IndabaX Botswana 
 
 ## Applied Machine Learning for Real-World Business Problems
 
